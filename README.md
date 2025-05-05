@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ankita – a passionate developer and tech enthusiast from 🇮🇳 India!<br><br>🎓 I'm currently pursuing MCA at BIT Mesra <br>🌱 Learning Data Science, ML, and building projects with Python/Java <br>💻 Love solving problems and contributing to open source <br>🚀 Aspiring Data Scientist with a mission to build impactful solutions <br>📫 Reach me: krankita0309@gmail.com<br>
+Hi, I'm Ankita – a passionate developer and tech enthusiast from India!<br><br>🎓 I'm currently pursuing MCA at BIT Mesra <br>🌱 Learning Data Science, ML, and building projects with Python/Java <br>💻 Love solving problems and contributing to open source <br>🚀 Aspiring Data Scientist with a mission to build impactful solutions <br>📫 Reach me: krankita0309@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankita-kumari-59960a285/)  
