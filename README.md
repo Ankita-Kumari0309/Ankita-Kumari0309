@@ -35,6 +35,9 @@ Hi, I'm Ankita – a passionate developer and tech enthusiast from India!<br><br
 
 ## 🔝 My Repositories:
 ### Machine Learning / AI:
+- **[Resumate](https://github.com/Ankita-Kumari0309/ResuMate)**
+- **[HelpX-Multi-Agent](https://github.com/Ankita-Kumari0309/HelpX---IT-TicketResolver)**
+- **[Image Caption Generator](https://github.com/Ankita-Kumari0309/Image_Caption_Generator-)**
 - **[Email-Spam-Classifier](https://github.com/Ankita-Kumari0309/Email-Spam-Classifier)**: A spam email classifier using machine learning.
 - **[SPAM-CLASSIFICATION-USING-MACHINE-LEARNING](https://github.com/Ankita-Kumari0309/SPAM-CLASSIFICATION-USING-MACHINE-LEARNING)**: Another project on spam classification using ML techniques.
 - **[Movie-Recommendation-System](https://github.com/Ankita-Kumari0309/Movie-Recommendation-System)**: A content-based movie recommendation system.
